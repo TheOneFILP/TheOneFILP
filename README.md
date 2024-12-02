@@ -24,7 +24,6 @@
   <!-- Core system skills -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Command%20Line-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Command Line" />
-  <img src="https://img.shields.io/badge/SSL-008000?style=for-the-badge&logo=lets-encrypt&logoColor=white" alt="SSL" />
   <img src="https://img.shields.io/badge/DNS-0078D4?style=for-the-badge&logo=cloudflare&logoColor=white" alt="DNS" />
   <img src="https://img.shields.io/badge/Firewall-E44C65?style=for-the-badge&logo=fortinet&logoColor=white" alt="Firewall" />
 
