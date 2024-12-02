@@ -9,6 +9,12 @@
 
 ---
 
+<p align="center">
+  <em>"The only way to do great work is to love what you do." – Steve Jobs</em>
+</p>
+
+---
+
 ## About Me 💬
 
 - 🎮 Gamer who loves challenges
