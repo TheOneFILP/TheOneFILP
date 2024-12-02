@@ -7,8 +7,6 @@
 </h1>
 <p align="center"><b>A technology enthusiast focused on learning and growing</b></p>
 
----
-
 <p align="center">
   <em>"The only way to do great work is to love what you do." – Steve Jobs</em>
 </p>
@@ -17,10 +15,10 @@
 
 ## About Me 💬
 
-- 🎮 Gamer who loves challenges
-- 📺 Anime and manga enthusiast
-- 💻 Passionate about system administration and development
-- 🌐 Constantly exploring new technologies
+- 🎮 Gamer who loves challenges  
+- 📺 Anime and manga enthusiast  
+- 💻 Passionate about system administration and development  
+- 🌐 Constantly exploring new technologies  
 
 ---
 
@@ -82,6 +80,6 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=TheOneFMS&&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=TheOneFILP&&show_icons=true&theme=radical" alt="GitHub Stats" />
   </a>
 </p>
